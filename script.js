@@ -18,6 +18,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // Download Resume
 document.getElementById('downloadResume').addEventListener('click', function() {
-    window.location.href = "N:\Assets\RESUME.pdf"; 
+    window.location.href = "RESUME.pdf"; 
 });
 
